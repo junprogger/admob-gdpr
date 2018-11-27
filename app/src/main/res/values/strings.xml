@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ad</string>
+    <string name="admob_publisher_id" translatable="false">pub-3940256099942544</string>
+    <string name="admob_banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_policy" translatable="false">https://google.com</string>
+    <string name="gotob">goto</string>
+</resources>
